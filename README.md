@@ -2,7 +2,7 @@
 
 This project is a console-based Java program that simulates a library system. 
 
-A library containsmedia, and media consists of books and music records. The Media class has title and genreparameters. It also keeps track of how many times an item has been borrowed and whether itis currently borrowed or not. Whereas a book has an author, a music recording has a produceras a person object parameter. In addition, a library member is another person object that canborrow any type of item from the library.
+A library contains media, and media consists of books and music records. The Media class has title and genre parameters. It also keeps track of how many times an item has been borrowed and whether it is currently borrowed or not. Where as a book has an author, a music recording has a produceras a person object parameter. In addition, a library member is another person object that can borrow any type of item from the library.
 In view of the descriptions above, the menu method prompts the user with the following options:
 1. Add new book to the library system
 2. Add a new music recording to the library system 
