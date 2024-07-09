@@ -1,4 +1,4 @@
-# SED504_Homework2
+# Library System 
 
 This project is a console-based Java program that simulates a library system. 
 
